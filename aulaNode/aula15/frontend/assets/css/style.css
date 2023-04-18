@@ -1,0 +1,21 @@
+:root {
+    --primary-color: #fff;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+html,
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box {
+    background-color: brown;
+    font-size: 20px;
+}
